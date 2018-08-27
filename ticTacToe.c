@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //I did all this with one library :D:D:D::D:D:D It makes me happy because I usually use other libraries as a crutch.
 
 int main(void)
 {
